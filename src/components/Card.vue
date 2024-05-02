@@ -1,13 +1,13 @@
 <template>
   <div class="flex justify-center">
-    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
+    <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-x-5 gap-y-12">
       <div
         class="card card-compact w-96 bg-base-100 shadow-xl"
         v-for="data in datas"
         :key="data.id"
       >
         <figure>
-          <img src="" alt="" />
+          <img :src="data.img" alt="gambar" />
         </figure>
         <div class="card-body">
           <h2 class="card-title font-bold">{{ data.title }}</h2>

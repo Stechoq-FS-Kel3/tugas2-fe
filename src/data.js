@@ -1,7 +1,11 @@
+import image1 from "@/assets/image1.png";
+import image2 from "@/assets/image2.png";
+import image3 from "@/assets/image3.png";
+
 export const datas = [
   {
     id: 1,
-    img: "@/assets/image1",
+    img: image1,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
@@ -9,7 +13,7 @@ export const datas = [
   },
   {
     id: 2,
-
+    img: image2,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
@@ -17,7 +21,7 @@ export const datas = [
   },
   {
     id: 3,
-
+    img: image3,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
@@ -25,7 +29,7 @@ export const datas = [
   },
   {
     id: 4,
-
+    img: image1,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
@@ -33,7 +37,7 @@ export const datas = [
   },
   {
     id: 5,
-
+    img: image2,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
@@ -41,7 +45,7 @@ export const datas = [
   },
   {
     id: 6,
-
+    img: image3,
     title: "long established",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
