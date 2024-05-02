@@ -1,6 +1,10 @@
 <template>
   <section>
-    <div class="grid grid-cols-2 gap-4 text-center my-24 md:mb-48">
+    <div
+      class="grid grid-cols-2 gap-4 text-center my-24 md:mb-48"
+      data-aos="zoom-in"
+      data-aos-delay="300"
+    >
       <div class="flex justify-center items-center text-center">
         <h1 class="text-xl md:text-5xl font-bold text-left">
           Terhubung <br />
