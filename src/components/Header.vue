@@ -3,7 +3,7 @@
 <template>
   <div class="navbar bg-base-100">
     <div class="flex-1 md:ms-16">
-      <a class="btn btn-ghost text-2xl font-bold">BlogKu</a>
+      <a href="/" class="btn btn-ghost text-2xl font-bold">BlogKu</a>
     </div>
     <div class="flex-none gap-2 md:mr-16">
       <div class="form-control">
