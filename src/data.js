@@ -6,49 +6,49 @@ export const datas = [
   {
     id: 1,
     img: image1,
-    title: "long established",
+    title: "AI dan Masa Depan",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Kecerdasan buatan (AI) semakin berperan penting dalam kehidupan kita sehari-hari. Dari asisten virtual hingga rekomendasi produk, AI membantu mempermudah banyak aspek kehidupan kita.",
+    date: "Mei 2nd 2024",
   },
   {
     id: 2,
     img: image2,
-    title: "long established",
+    title: "Blockchain dan Keamanan",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Teknologi blockchain memberikan tingkat keamanan dan transparansi yang belum pernah ada sebelumnya dalam transaksi digital. Ini dapat merevolusi cara kita melakukan bisnis dan berinteraksi secara online.",
+    date: "Mei 2nd 2024",
   },
   {
     id: 3,
     img: image3,
-    title: "long established",
+    title: "IoT dan Rumah Pintar",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Internet of Things (IoT) memungkinkan perangkat sehari-hari kita terhubung dan berinteraksi. Dari lampu rumah hingga kulkas, IoT membuat rumah kita semakin pintar.",
+    date: "Mei 2nd 2024",
   },
   {
     id: 4,
     img: image1,
-    title: "long established",
+    title: "Big Data dan Analisis",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Big data dan analisis data memungkinkan kita untuk menggali wawasan dan pola dari kumpulan data besar. Ini membuka peluang baru dalam penelitian, pemasaran, dan banyak bidang lainnya.",
+    date: "Mei 2nd 2024",
   },
   {
     id: 5,
     img: image2,
-    title: "long established",
+    title: "Cloud Computing dan Skalabilitas",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Cloud computing memungkinkan perusahaan dan individu untuk menyimpan dan mengakses data dan aplikasi secara online. Ini memberikan fleksibilitas dan skalabilitas yang belum pernah ada sebelumnya.",
+    date: "Mei 2nd 2024",
   },
   {
     id: 6,
     img: image3,
-    title: "long established",
+    title: "Cybersecurity dan Privasi",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Dengan semakin banyak data dan transaksi yang dilakukan secara online, cybersecurity dan privasi menjadi semakin penting. Perlindungan data dan informasi pribadi adalah prioritas utama dalam dunia digital kita.",
+    date: "Mei 2nd 2024",
   },
 ];
