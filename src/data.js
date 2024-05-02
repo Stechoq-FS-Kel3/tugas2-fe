@@ -6,10 +6,10 @@ export const datas = [
   {
     id: 1,
     img: image1,
-    title: "long established",
+    title: "Sudah Lama Terbentuk",
     description:
-      "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that....",
-    date: "May 20th 2020",
+      "Sudah menjadi fakta yang lama bahwa pembaca akan terganggu oleh konten yang dapat dibaca di halaman saat melihat layoutnya. Tujuan dari penggunaan Lorem Ipsum adalah...",
+    date: "20 Mei 2020",
   },
   {
     id: 2,

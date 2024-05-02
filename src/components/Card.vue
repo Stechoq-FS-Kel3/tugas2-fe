@@ -10,14 +10,18 @@
           <img :src="data.img" alt="gambar" />
         </figure>
         <div class="card-body">
-          <h2 class="card-title font-bold">{{ data.title }}</h2>
+          <router-link :to="{ name: 'detail', params: { id: data.id } }">
+            <h2 class="card-title font-bold">{{ data.title }}</h2>
+          </router-link>
           <p class="text-slate-600">
             {{ data.description }}
           </p>
           <div class="card-actions justify-end">
             <p class="text-slate-600">{{ data.date }}</p>
-            <button class="font-semibold text-slate-800">Read More</button>
-          </div>
+            <router-link :to="{ name: 'detail', params: { id: data.id } }">
+              <button class="font-semibold text-slate-800">Read More</button>
+            </router-link>
+          </div>          
         </div>
       </div>
     </div>
