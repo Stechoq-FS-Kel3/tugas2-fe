@@ -6,6 +6,10 @@ export const datas = [
   {
     id: 1,
     img: image1,
+    title: "Sudah Lama Terbentuk",
+    description:
+      "Sudah menjadi fakta yang lama bahwa pembaca akan terganggu oleh konten yang dapat dibaca di halaman saat melihat layoutnya. Tujuan dari penggunaan Lorem Ipsum adalah...",
+    date: "20 Mei 2020",
     title: "AI dan Masa Depan",
     description:
       "Kecerdasan buatan (AI) semakin berperan penting dalam kehidupan kita sehari-hari. Dari asisten virtual hingga rekomendasi produk, AI membantu mempermudah banyak aspek kehidupan kita.",
